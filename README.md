@@ -1,4 +1,5 @@
 # CUDA at Scale Independent Project: Batch GPU Image Processing
+By Khalid El-Darymli
 
 ## Project Summary
 This project is a simple CUDA-based batch image processing application designed to satisfy the **CUDA at Scale Independent Project** requirements with minimal setup and no external dependencies beyond CUDA.
@@ -108,5 +109,5 @@ Before submitting, make sure your public repo includes:
    - several `.pgm` files
 6. One or two screenshots in `proof/` showing the program running in the terminal
 
-## Suggested short project description for Coursera submission
+## Short project description for Coursera submission
 I implemented a CUDA batch image processing project that generates hundreds of grayscale images and processes them on the GPU in a single run. The program applies a 3x3 blur filter and then Sobel edge detection using custom CUDA kernels. It saves sample output images and a timing log as proof of execution. I chose this project because it demonstrates GPU acceleration on a large number of inputs while keeping the code simple, portable, and easy to review.
