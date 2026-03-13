@@ -1,5 +1,4 @@
 # CUDA at Scale Independent Project: Batch GPU Image Processing
-By Khalid El-Darymli
 
 ## Project Summary
 This project is a simple CUDA-based batch image processing application designed to satisfy the **CUDA at Scale Independent Project** requirements with minimal setup and no external dependencies beyond CUDA.
